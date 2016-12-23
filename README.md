@@ -48,7 +48,7 @@ reset_scale()
     
 Persistant Problems:
 
-    -there is still a pallet handling issue as described on the pygame.org websitel
+    -there is still a pallet handling issue as described on the pygame.org website.
      Time permitting, I'll look into this, but I'm no expert on the GIF image format 
      and this was really a one-off kind of thing for a quick and dirty prototype for a 
      larger project.
